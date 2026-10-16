@@ -12,15 +12,15 @@ This is a development lab; passwords, certificates and listeners below are for l
 
 ## Lab index
 
-- [Lab 0 — Setup](#setup)
-- [Lab 1 — MQTT hello world, QoS and retained state](#lab-1--mqtt-hello-world-qos-and-retained-state)
-- [Lab 2 — Client interoperability MQTT <---> NATS](#lab-2--client-interoperability-mqtt-----nats)
-- [Lab 3 — JetStream history versus retained message](#lab-3--jetstream-history-versus-retained-message)
-- [Lab 4 — Three-server cluster](#lab-4--three-server-cluster)
-- [Lab 5 — Accounts and isolation (tenancy)](#lab-5--accounts-and-isolation-tenancy)
-- [Lab 6 — mTLS on the MQTT listener](#lab-6--mtls-on-the-mqtt-listener)
-- [Lab 7 — Auth Callout](#lab-7--auth-callout)
-- [Lab 8 — Edge to cloud: leaf link and store and forward](#lab-8--edge-to-cloud-leaf-link-and-store-and-forward)
+- [Lab 0 — Setup](mqtt-workshop-2026.md#setup)
+- [Lab 1 — MQTT hello world, QoS and retained state](mqtt-workshop-2026.md#lab-1--mqtt-hello-world-qos-and-retained-state)
+- [Lab 2 — Client interoperability MQTT <---> NATS](mqtt-workshop-2026.md#lab-2--client-interoperability-mqtt-----nats)
+- [Lab 3 — JetStream history versus retained message](mqtt-workshop-2026.md#lab-3--jetstream-history-versus-retained-message)
+- [Lab 4 — Three-server cluster](mqtt-workshop-2026.md#lab-4--three-server-cluster)
+- [Lab 5 — Accounts and isolation (tenancy)](mqtt-workshop-2026.md#lab-5--accounts-and-isolation-tenancy)
+- [Lab 6 — mTLS on the MQTT listener](mqtt-workshop-2026.md#lab-6--mtls-on-the-mqtt-listener)
+- [Lab 7 — Auth Callout](mqtt-workshop-2026.md#lab-7--auth-callout)
+- [Lab 8 — Edge to cloud: leaf link and store and forward](mqtt-workshop-2026.md#lab-8--edge-to-cloud-leaf-link-and-store-and-forward)
 
 ---
 
